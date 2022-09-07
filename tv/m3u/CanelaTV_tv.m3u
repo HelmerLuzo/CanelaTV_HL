@@ -21,3 +21,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 #EXTINF:-1 tvg-id="canela-music-presents" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm-canela-presents-16x9_1.jpg" group-title="" , Canela Music Presents
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
+#EXTINF:-1 tvg-id="flow-caribe" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm-flow-caribe2-16x9.jpg.png" group-title="" , Flow Caribe
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
+#EXTINF:-1 tvg-id="pop-pegajoso" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/pop-pegajoso.jpeg" group-title="" , Pop Pegajoso
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
+#EXTINF:-1 tvg-id="nothing-pero-chill" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/16x9nbc.png" group-title="" , Nothing Pero Chill
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
+#EXTINF:-1 tvg-id="amor-para-todos" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/amor-para-todos.jpg" group-title="" , Amor Para Todos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
+#EXTINF:-1 tvg-id="ritmos-inolvidables" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm-ritmos-inolvidables-16x92.jpg" group-title="" , Ritmos Inolvidables
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
+#EXTINF:-1 tvg-id="explosion-regional" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm-explosion-regiona-16x9.jpg" group-title="" , Explosión Regional 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
