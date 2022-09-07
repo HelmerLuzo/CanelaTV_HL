@@ -1,0 +1,23 @@
+#EXTM3U url-tvg="https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz"
+#EXTINF:-1 tvg-id="canela-clasicos" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-classics.png" group-title="" , Canela Clásicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1 tvg-id="accion-mexicana" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-accion-mexicana-16x9.jpg" group-title="" , Acción Mexicana
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+#EXTINF:-1 tvg-id="cine-romantico" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-romantico.png" group-title="" , Cine Romántico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1 tvg-id="flou-cine" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/diseno_sin_titulo_17.png" group-title="" , Flou Cine
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=2a54a3cf5226de279654ec88859087d0
+#EXTINF:-1 tvg-id="canela-telenovelas" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/image.jpeg" group-title="" , Canela Telenovelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:-1 tvg-id="novelisima" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/novelisima_1920x1080-default_2.png" group-title="" , Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+#EXTINF:-1 tvg-id="tierra-de-amor-y-venganza" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-tierra-16x9.png" group-title="" , Tierra De Amor Y Venganza
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
+#EXTINF:-1 tvg-id="el-talisman" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-talisman-16x9_2.png" group-title="" , El Talismán
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1079
+#EXTINF:-1 tvg-id="itv-deportes" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/itv_deportes_16x9.jpg" group-title="" , ITV Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+#EXTINF:-1 tvg-id="canela-hits" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canela-hits-16x9-v1_2.jpg" group-title="" , Canela Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+#EXTINF:-1 tvg-id="canela-music-presents" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm-canela-presents-16x9_1.jpg" group-title="" , Canela Music Presents
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
