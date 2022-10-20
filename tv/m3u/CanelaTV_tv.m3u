@@ -33,7 +33,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 #EXTINF:-1 tvg-id="explosion-regional" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm-explosion-regiona-16x9.jpg" group-title="" , Explosión Regional 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
-#EXTINF:-1 tvg-id="canela-kids" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela_kids-16x9_1_0.png" group-title="" , Canela Kids
+#EXTINF:-1 tvg-id="canela-kids" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela_kids-16x9_new.jpg" group-title="" , Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 tvg-id="cine-kids" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/microsoftteams-image_23.png" group-title="" , Cine Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
