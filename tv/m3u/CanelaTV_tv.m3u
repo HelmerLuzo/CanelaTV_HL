@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz"
-#EXTINF:-1 tvg-id="canela-clasicos" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-classics.png" group-title="" , Canela Clásicos
+#EXTINF:-1 tvg-id="canela-clasicos" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-classics-16x9_0.png" group-title="" , Canela Clásicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-id="accion-mexicana" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-accion-mexicana-16x9.jpg" group-title="" , Acción Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
