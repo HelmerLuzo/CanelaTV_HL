@@ -9,12 +9,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=2a54a3cf5226de279654ec88859087d0
 #EXTINF:-1 tvg-id="canela-telenovelas" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/image.jpeg" group-title="" , Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-#EXTINF:-1 tvg-id="novelisima" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/novelisima_1920x1080-default_2.png" group-title="" , Novelisima
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-#EXTINF:-1 tvg-id="tierra-de-amor-y-venganza" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-tierra-16x9.png" group-title="" , Tierra De Amor Y Venganza
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 #EXTINF:-1 tvg-id="el-talisman" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-talisman-16x9_2.png" group-title="" , El Talismán
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1079
+#EXTINF:-1 tvg-id="tierra-de-amor-y-venganza" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-tierra-16x9.png" group-title="" , Tierra De Amor Y Venganza
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
+#EXTINF:-1 tvg-id="novelisima" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/novelisima_1920x1080-default_2.png" group-title="" , Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-id="cm-presents-las-fiestas" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/sephora_16_x_9.png" group-title="" , CM Presents: LAS FIESTAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 #EXTINF:-1 tvg-id="itv-deportes" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/itv_deportes_16x9.jpg" group-title="" , ITV Deportes
