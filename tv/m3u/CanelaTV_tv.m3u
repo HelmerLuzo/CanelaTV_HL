@@ -15,7 +15,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1079
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 #EXTINF:-1 tvg-id="novelisima" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/novelisima_1920x1080-default_2.png" group-title="" , Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-#EXTINF:-1 tvg-id="cm-presents-las-fiestas" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/sephora_16_x_9.png" group-title="" , CM Presents: LAS FIESTAS
+#EXTINF:-1 tvg-id="canela-music-presents" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm-canela-presents-16x9_2.jpg" group-title="" , CANELA MUSIC PRESENTS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 #EXTINF:-1 tvg-id="itv-deportes" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/itv_deportes_16x9.jpg" group-title="" , ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
