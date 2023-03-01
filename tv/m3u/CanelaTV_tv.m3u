@@ -12,7 +12,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1080
 #EXTINF:-1 tvg-id="novelisima" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/novelisima_1920x1080-default_2.png" group-title="" , Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-id="cine-romantico" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-romantico.png" group-title="" , Cine Romántico
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4417
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="flou-cine" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/diseno_sin_titulo_17.png" group-title="" , Flou Cine
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=2a54a3cf5226de279654ec88859087d0
 #EXTINF:-1 tvg-id="canela-music-presents" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm-canela-presents-16x9_2.jpg" group-title="" , CANELA MUSIC PRESENTS
@@ -33,17 +33,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 #EXTINF:-1 tvg-id="explosion-regional" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm-explosion-regiona-16x9.jpg" group-title="" , Explosión Regional 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
-#EXTINF:-1 tvg-id="canela-kids" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela_kids-16x9-amistad.jpg" group-title="" , Canela Kids
+#EXTINF:-1 tvg-id="canela-kids" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela_kids-16x9-mes-de-la-mujer.jpg" group-title="" , Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-#EXTINF:-1 tvg-id="haz-clic" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-haz_clic_-16x9-amistad.jpg" group-title="" , Haz Clic!
+#EXTINF:-1 tvg-id="haz-clic" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-haz_clic_-16x9-mes-de-la-mujer.jpg" group-title="" , Haz Clic!
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
-#EXTINF:-1 tvg-id="cine-kids" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-kids-16x9-amistad.jpg" group-title="" , Cine Kids
+#EXTINF:-1 tvg-id="cine-kids" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-kids-16x9-mes-de-la-mujer.jpg" group-title="" , Cine Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
-#EXTINF:-1 tvg-id="planeta-de-aventuras" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-planeta_de_aventuras-16x9-amistad.jpg" group-title="" , Planeta de Aventuras
+#EXTINF:-1 tvg-id="planeta-de-aventuras" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-planeta_de_aventuras-16x9-mes-de-la-mujer.jpg" group-title="" , Planeta de Aventuras
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
-#EXTINF:-1 tvg-id="zona-de-accion" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-zona_de_accion-16x9-amistad.jpg" group-title="" , Zona de Acción
+#EXTINF:-1 tvg-id="zona-de-accion" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-zona_de_accion-16x9-mes-de-la-mujer.jpg" group-title="" , Zona de Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
-#EXTINF:-1 tvg-id="mundo-pequeno" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-mundo_pequeno-16x9-amistad.jpg" group-title="" , Mundo Pequeño
+#EXTINF:-1 tvg-id="mundo-pequeno" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-mundo_pequeno-16x9-mes-de-la-mujer.jpg" group-title="" , Mundo Pequeño
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 #EXTINF:-1 tvg-id="/estoon-goggles-en-espanol" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/tg-en-espanol-rectangle-logo-option4.jpeg" group-title="" , Toon Goggles en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
