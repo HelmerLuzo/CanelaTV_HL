@@ -3,7 +3,7 @@
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-id="flou-cine" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/diseno_sin_titulo_17.png" group-title="" , Flou Cine
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=2a54a3cf5226de279654ec88859087d0
-#EXTINF:-1 tvg-id="canela-kids" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela_kids-16x9-mes-de-la-mujer_0.jpg" group-title="" , Canela Kids
+#EXTINF:-1 tvg-id="canela-kids" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-kids-16x9.png" group-title="" , Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 tvg-id="planeta-de-aventuras" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-planeta_de_aventuras-16x9_3.png" group-title="" , Planeta de Aventuras
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
@@ -35,7 +35,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
 #EXTINF:-1 tvg-id="explosion-regional" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm-explosion-regiona-16x9.jpg" group-title="" , Explosión Regional 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
-#EXTINF:-1 tvg-id="canela-kids" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela_kids-16x9-mes-de-la-mujer_0.jpg" group-title="" , Canela Kids
+#EXTINF:-1 tvg-id="canela-kids" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-kids-16x9.png" group-title="" , Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 tvg-id="planeta-de-aventuras" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-planeta_de_aventuras-16x9_3.png" group-title="" , Planeta de Aventuras
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
