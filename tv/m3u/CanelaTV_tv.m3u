@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz"
+#EXTINF:-1 tvg-id="novelas-turcas" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-turcas-16x9.jpg" group-title="" , Novelas Turcas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:-1 tvg-id="novelisima" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/novelisima_1920x1080-default_2.png" group-title="" , Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-id="flou-cine" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/diseno_sin_titulo_17.png" group-title="" , Flou Cine
