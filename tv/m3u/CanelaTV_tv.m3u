@@ -27,7 +27,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 #EXTINF:-1 tvg-id="flow-caribe" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm-flow-caribe2-16x9.jpg.png" group-title="" , Flow Caribe
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
-#EXTINF:-1 tvg-id="pop-pegajoso" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/pop-pegajoso.jpeg" group-title="" , Pop Pegajoso
+#EXTINF:-1 tvg-id="pop-pegajoso" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/pop-pegajoso.jpg" group-title="" , Pop Pegajoso
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
 #EXTINF:-1 tvg-id="nothing-pero-chill" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/16x9nbc.png" group-title="" , Nothing Pero Chill
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
