@@ -23,21 +23,21 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 https://ov.ottera.tv/live/master.m3u8?channel=tg_tg_es
 #EXTINF:-1 tvg-id="itv-deportes" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/itv_deportes_16x9.jpg" group-title="" , ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-#EXTINF:-1 tvg-id="canela-music-presents" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm-canela-presents-16x9_2.jpg" group-title="" , CANELA MUSIC PRESENTS
+#EXTINF:-1 tvg-id="canela-music-presents" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelapresents_16-9_1.jpg" group-title="" , CANELA MUSIC PRESENTS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
-#EXTINF:-1 tvg-id="canela-hits" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canela-hits-16x9-v1_2.jpg" group-title="" , Canela Hits
+#EXTINF:-1 tvg-id="canela-hits" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelahits_16-9_0.jpg" group-title="" , Canela Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
-#EXTINF:-1 tvg-id="flow-caribe" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm-flow-caribe2-16x9.jpg.png" group-title="" , Flow Caribe
+#EXTINF:-1 tvg-id="flow-caribeno" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/3T2kTA8goV91FAldQGFvr5VdFFR9YCnvHLftVeS5sUI_0_0.jpg" group-title="" , FLOW CARIBEÑO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
-#EXTINF:-1 tvg-id="pop-pegajoso" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/pop-pegajoso.jpg" group-title="" , Pop Pegajoso
+#EXTINF:-1 tvg-id="tu-pop-favorito" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/tupopfavorito-16-9_0.jpg" group-title="" , TU POP FAVORITO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
-#EXTINF:-1 tvg-id="nothing-pero-chill" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/16x9nbc.png" group-title="" , Nothing Pero Chill
+#EXTINF:-1 tvg-id="chill-latino" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/e2hVuoQR0bXEwQ9C5b1qiiXZYRHkfljq_jLAYCfD5SM_0.jpg" group-title="" , CHILL LATINO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
-#EXTINF:-1 tvg-id="amor-para-todos" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/amor-para-todos.jpg" group-title="" , Amor Para Todos
+#EXTINF:-1 tvg-id="puro-romance" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/puroromance_16-9_0.jpg" group-title="" , PURO ROMANCE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
-#EXTINF:-1 tvg-id="ritmos-inolvidables" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm-ritmos-inolvidables-16x92.jpg" group-title="" , Ritmos Inolvidables
+#EXTINF:-1 tvg-id="ritmos-inolvidables" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ritmosinolvida-16-9_1.jpg" group-title="" , RITMOS INOLVIDABLES 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
-#EXTINF:-1 tvg-id="explosion-regional" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm-explosion-regiona-16x9.jpg" group-title="" , Explosión Regional 
+#EXTINF:-1 tvg-id="regional-mx" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/NQWaEqbRb4sbdu-6l-8aMI6fkJ-ylKhaYsxtyXwiayM_0.jpg" group-title="" , REGIONAL MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
 #EXTINF:-1 tvg-id="canela-kids" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-kids-16x9.png" group-title="" , Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
