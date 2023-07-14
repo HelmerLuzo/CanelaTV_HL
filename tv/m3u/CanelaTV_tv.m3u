@@ -1,11 +1,13 @@
 #EXTM3U url-tvg="https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz"
+#EXTINF:-1 tvg-id="cine-picante" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-picante-16x9.jpg" group-title="" , Cine Picante
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629
 #EXTINF:-1 tvg-id="novelas-turcas" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-turcas-16x9.jpg" group-title="" , Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
-#EXTINF:-1 tvg-id="sony-canal-novelas" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-sony_channel-_channel_novelas-16x9.jpg" group-title="" , Sony Canal Novelas
+#EXTINF:-1 tvg-id="sony-canal-novelas" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-sony_channel-_channel_novelas-16x9_1.jpg" group-title="" , Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8?ads.wurl_channel=694
 #EXTINF:-1 tvg-id="novelisima" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/novelisima_1920x1080-default_2.png" group-title="" , Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-#EXTINF:-1 tvg-id="flou-cine" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/diseno_sin_titulo_17.png" group-title="" , Flou Cine
+#EXTINF:-1 tvg-id="flou-cine" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-flou_cine-16x9.jpg" group-title="" , Flou Cine
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=2a54a3cf5226de279654ec88859087d0
 #EXTINF:-1 tvg-id="flou-caribeno" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel_banner_flou_caribeno_1920_x_1080_9.16.jpg" group-title="" , FLOU Caribeño
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-canelatv/playlist.m3u8?device_id=[DID]
@@ -21,7 +23,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 #EXTINF:-1 tvg-id="toon-goggles-en-espanol" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/tg-en-espanol-rectangle-logo-option4.jpg" group-title="" , Toon Goggles en Español
 https://ov.ottera.tv/live/master.m3u8?channel=tg_tg_es
-#EXTINF:-1 tvg-id="itv-deportes" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/itv_deportes_16x9.jpg" group-title="" , ITV Deportes
+#EXTINF:-1 tvg-id="itv-deportes" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-linear_itv-16x9.jpg" group-title="" , ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1 tvg-id="canela-music-presents" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelapresents_16-9_0.jpg" group-title="" , CANELA MUSIC PRESENTS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
