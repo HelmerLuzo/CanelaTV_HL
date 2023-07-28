@@ -23,7 +23,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 #EXTINF:-1 tvg-id="toon-goggles-en-espanol" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/tg-en-espanol-rectangle-logo-option4.jpg" group-title="" , Toon Goggles en Español
 https://ov.ottera.tv/live/master.m3u8?channel=tg_tg_es
-#EXTINF:-1 tvg-id="itv-deportes" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-linear_itv-16x9.jpg" group-title="" , ITV Deportes
+#EXTINF:-1 tvg-id="itv-deportes" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/CNv4Q30IOM7-ZUnfOeACh_4eGtl-2Whey5zBt4afg20.jpg" group-title="" , ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1 tvg-id="canela-music-presents" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelapresents_16-9_0.jpg" group-title="" , CANELA MUSIC PRESENTS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
