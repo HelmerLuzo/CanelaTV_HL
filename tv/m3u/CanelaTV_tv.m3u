@@ -33,7 +33,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
 #EXTINF:-1 tvg-id="tu-pop-favorito" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/tupopfavorito-16-9_0.jpg" group-title="" , TU POP FAVORITO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
-#EXTINF:-1 tvg-id="chill-latino" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/uoYmmDYOkUiutqxSbtcu-b3v0-GuHh75usD7GIB10vs_0.jpg" group-title="" , CHILL LATINO
+#EXTINF:-1 tvg-id="conciertos" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-conciertos-linnear-16x9.jpg" group-title="" , CONCIERTOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
 #EXTINF:-1 tvg-id="puro-romance" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/puroromance_16-9_1.jpg" group-title="" , PURO ROMANCE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
