@@ -49,9 +49,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 #EXTINF:-1 tvg-id="zona-de-accion" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-zona_de_accion-16x9_2.png" group-title="" , Zona de Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
-#EXTINF:-1 tvg-id="haz-clic" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-haz_clic-16x9_1.png" group-title="" , Haz Clic!
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 #EXTINF:-1 tvg-id="planeta-de-aventuras" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-planeta_de_aventuras-16x9_3.png" group-title="" , Planeta de Aventuras
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
+#EXTINF:-1 tvg-id="haz-clic" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-haz_clic-16x9_1.png" group-title="" , Haz Clic!
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 #EXTINF:-1 tvg-id="toon-goggles-en-espanol-0" tvg-name="" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/tg-en-espanol-rectangle-logo-option4_0.jpg" group-title="" , Toon Goggles en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
