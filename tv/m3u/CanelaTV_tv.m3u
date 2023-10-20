@@ -55,19 +55,19 @@ https://df4ac36b116646748d613407d93f79aa.mediatailor.us-east-1.amazonaws.com/v1/
 https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8?ads.wurl_channel=926
 #EXTINF:-1 tvg-id="fish-tank" tvg-name="fish-tank" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canela_fish_tank_horizontal_image.png" group-title="En Vivo" , Fish Tank 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4324
-#EXTINF:-1 tvg-id="cine-en-familia" tvg-name="cine-en-familia" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-en-familia-16x9-cris_1_0.jpg" group-title="Mucho Viaje" , Cine en Familia
+#EXTINF:-1 tvg-id="cine-en-familia" tvg-name="cine-en-familia" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-en-familia-16x9-cris_1_0.jpg" group-title="Kids" , Cine en Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5281
-#EXTINF:-1 tvg-id="mundo-pequeno" tvg-name="mundo-pequeno" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ck-linear-mundo-pequeno-16x9.png" group-title="Mucho Viaje" , Mundo Pequeño
+#EXTINF:-1 tvg-id="mundo-pequeno" tvg-name="mundo-pequeno" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ck-linear-mundo-pequeno-16x9.png" group-title="Kids" , Mundo Pequeño
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
-#EXTINF:-1 tvg-id="zona-de-accion" tvg-name="zona-de-accion" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-zona_de_accion-16x9_2.png" group-title="Mucho Viaje" , Zona de Acción
+#EXTINF:-1 tvg-id="zona-de-accion" tvg-name="zona-de-accion" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-zona_de_accion-16x9_2.png" group-title="Kids" , Zona de Acción
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
-#EXTINF:-1 tvg-id="moonbug-kids" tvg-name="moonbug-kids" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/moonbug_linear_poster_16x9_02.png" group-title="Mucho Viaje" , Moonbug Kids 
+#EXTINF:-1 tvg-id="moonbug-kids" tvg-name="moonbug-kids" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/moonbug_linear_poster_16x9_02.png" group-title="Kids" , Moonbug Kids 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
-#EXTINF:-1 tvg-id="planeta-de-aventuras" tvg-name="planeta-de-aventuras" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-planeta_de_aventuras-16x9_3.png" group-title="Mucho Viaje" , Planeta de Aventuras
+#EXTINF:-1 tvg-id="planeta-de-aventuras" tvg-name="planeta-de-aventuras" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-planeta_de_aventuras-16x9_3.png" group-title="Kids" , Planeta de Aventuras
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
-#EXTINF:-1 tvg-id="haz-clic" tvg-name="haz-clic" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-haz_clic-16x9_1.png" group-title="Mucho Viaje" , Haz Clic!
+#EXTINF:-1 tvg-id="haz-clic" tvg-name="haz-clic" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-haz_clic-16x9_1.png" group-title="Kids" , Haz Clic!
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
-#EXTINF:-1 tvg-id="toon-goggles-en-espanol-0" tvg-name="toon-goggles-en-espanol-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/tg-en-espanol-rectangle-logo-option4_0.jpg" group-title="Mucho Viaje" , Toon Goggles en Español
+#EXTINF:-1 tvg-id="toon-goggles-en-espanol-0" tvg-name="toon-goggles-en-espanol-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/tg-en-espanol-rectangle-logo-option4_0.jpg" group-title="Kids" , Toon Goggles en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 #EXTINF:-1 tvg-id="masl-non-stop-247" tvg-name="masl-non-stop-247" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/masl-nonstop-16x9.jpg.jpg" group-title="Deportes y Música" , MASL Non-Stop 24/7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4060
