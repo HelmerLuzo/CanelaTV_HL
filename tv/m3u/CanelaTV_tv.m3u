@@ -83,23 +83,23 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 #EXTINF:-1 tvg-id="toon-goggles-en-espanol-0" tvg-name="toon-goggles-en-espanol-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/tg-en-espanol-rectangle-logo-option4_0.jpg" group-title="Kids" , Toon Goggles en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
-#EXTINF:-1 tvg-id="masl-non-stop-247" tvg-name="masl-non-stop-247" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/masl-nonstop-16x9.jpg.jpg" group-title="Canales de Deporte & Música en Vivo" , MASL Non-Stop 24/7
+#EXTINF:-1 tvg-id="masl-non-stop-247" tvg-name="masl-non-stop-247" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/masl-nonstop-16x9.jpg.jpg" group-title="Deportes y Música" , MASL Non-Stop 24/7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4060
-#EXTINF:-1 tvg-id="power-nation-en-espanol" tvg-name="power-nation-en-espanol" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelatv_thumbnail_1920x1080_v3.png" group-title="Canales de Deporte & Música en Vivo" , Power Nation en Español
+#EXTINF:-1 tvg-id="power-nation-en-espanol" tvg-name="power-nation-en-espanol" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelatv_thumbnail_1920x1080_v3.png" group-title="Deportes y Música" , Power Nation en Español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=a1c966e29f52334a1b28296f846ac146
-#EXTINF:-1 tvg-id="itv-deportes" tvg-name="itv-deportes" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/CNv4Q30IOM7-ZUnfOeACh_4eGtl-2Whey5zBt4afg20.jpg" group-title="Canales de Deporte & Música en Vivo" , ITV Deportes
+#EXTINF:-1 tvg-id="itv-deportes" tvg-name="itv-deportes" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/CNv4Q30IOM7-ZUnfOeACh_4eGtl-2Whey5zBt4afg20.jpg" group-title="Deportes y Música" , ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-#EXTINF:-1 tvg-id="canela-hits" tvg-name="canela-hits" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelahits_16-9_1.jpg" group-title="Canales de Deporte & Música en Vivo" , Canela Hits
+#EXTINF:-1 tvg-id="canela-hits" tvg-name="canela-hits" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelahits_16-9_1.jpg" group-title="Deportes y Música" , Canela Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
-#EXTINF:-1 tvg-id="flow-caribeno" tvg-name="flow-caribeno" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/flowcaribeno_16-9.jpg" group-title="Canales de Deporte & Música en Vivo" , FLOW CARIBEÑO
+#EXTINF:-1 tvg-id="flow-caribeno" tvg-name="flow-caribeno" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/flowcaribeno_16-9.jpg" group-title="Deportes y Música" , FLOW CARIBEÑO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
-#EXTINF:-1 tvg-id="tu-pop-favorito" tvg-name="tu-pop-favorito" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/tupopfavorito-16-9_0.jpg" group-title="Canales de Deporte & Música en Vivo" , TU POP FAVORITO
+#EXTINF:-1 tvg-id="tu-pop-favorito" tvg-name="tu-pop-favorito" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/tupopfavorito-16-9_0.jpg" group-title="Deportes y Música" , TU POP FAVORITO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086
-#EXTINF:-1 tvg-id="conciertos" tvg-name="conciertos" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-conciertos-linnear-16x9.jpg" group-title="Canales de Deporte & Música en Vivo" , CONCIERTOS
+#EXTINF:-1 tvg-id="conciertos" tvg-name="conciertos" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-conciertos-linnear-16x9.jpg" group-title="Deportes y Música" , CONCIERTOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085
-#EXTINF:-1 tvg-id="puro-romance" tvg-name="puro-romance" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/puroromance_16-9_1.jpg" group-title="Canales de Deporte & Música en Vivo" , PURO ROMANCE
+#EXTINF:-1 tvg-id="puro-romance" tvg-name="puro-romance" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/puroromance_16-9_1.jpg" group-title="Deportes y Música" , PURO ROMANCE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082
-#EXTINF:-1 tvg-id="ritmos-inolvidables" tvg-name="ritmos-inolvidables" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ritmosinolvida-16-9_0.jpg" group-title="Canales de Deporte & Música en Vivo" , RITMOS INOLVIDABLES 
+#EXTINF:-1 tvg-id="ritmos-inolvidables" tvg-name="ritmos-inolvidables" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ritmosinolvida-16-9_0.jpg" group-title="Deportes y Música" , RITMOS INOLVIDABLES 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081
-#EXTINF:-1 tvg-id="regional-mx" tvg-name="regional-mx" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/GE8gFwkpG0Z_3KXmoqcAUI1EJwRp2YF5PiX0KFWcqHM_0.jpg" group-title="Canales de Deporte & Música en Vivo" , REGIONAL MX
+#EXTINF:-1 tvg-id="regional-mx" tvg-name="regional-mx" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/GE8gFwkpG0Z_3KXmoqcAUI1EJwRp2YF5PiX0KFWcqHM_0.jpg" group-title="Deportes y Música" , REGIONAL MX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084
