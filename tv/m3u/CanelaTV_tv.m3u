@@ -89,6 +89,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4060
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=13a8e086657d82c29d9a3b90cf0d90f7
 #EXTINF:-1 tvg-id="itv-deportes" tvg-name="itv-deportes" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/CNv4Q30IOM7-ZUnfOeACh_4eGtl-2Whey5zBt4afg20.jpg" group-title="Canales de Deporte & Música en Vivo" , ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+#EXTINF:-1 tvg-id="canela-music-presents" tvg-name="canela-music-presents" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelapresents_16-9_0.jpg" group-title="Canales de Deporte & Música en Vivo" , CANELA MUSIC PRESENTS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 #EXTINF:-1 tvg-id="canela-hits" tvg-name="canela-hits" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelahits_16-9_1.jpg" group-title="Canales de Deporte & Música en Vivo" , Canela Hits
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 #EXTINF:-1 tvg-id="flow-caribeno" tvg-name="flow-caribeno" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/flowcaribeno_16-9.jpg" group-title="Canales de Deporte & Música en Vivo" , FLOW CARIBEÑO
