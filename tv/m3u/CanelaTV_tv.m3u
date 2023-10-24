@@ -31,7 +31,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184
 #EXTINF:-1 tvg-id="corazon" tvg-name="corazon" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/corazon_c_1920x1080.png" group-title="En Vivo" , Corazón
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
-#EXTINF:-1 tvg-id="cinema" tvg-name="cinema" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/8UGJqm_QL7_6db4Bn6Y1lnlxNt5gIcjS1CtpDgp02NY.jpg" group-title="En Vivo" , Cinema
+#EXTINF:-1 tvg-id="cinema" tvg-name="cinema" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/EK9aZjZ1ZauSbrscsQm-o9wYSvgoY8k861H04hY1JDA.jpg" group-title="En Vivo" , Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5400
 #EXTINF:-1 tvg-id="clic" tvg-name="clic" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/1920_x_1080_0_2.png" group-title="En Vivo" , Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
