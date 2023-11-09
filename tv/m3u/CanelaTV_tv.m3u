@@ -57,7 +57,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-cane
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-id="cine-romantico" tvg-name="cine-romantico" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-romantico.png" group-title="En Vivo" , Cine Romántico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
-#EXTINF:-1 tvg-id="sonicentric" tvg-name="sonicentric" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/sonicentric_spring_horizontal_image.png" group-title="En Vivo" , SoniCentric
+#EXTINF:-1 tvg-id="sonicentric" tvg-name="sonicentric" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canela_christmas_scenes_1920x1080_1.png" group-title="En Vivo" , SoniCentric
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4325
 #EXTINF:-1 tvg-id="meganoticias" tvg-name="meganoticias" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-meganoticias-16x9_0.jpg" group-title="En Vivo" , Meganoticias
 https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8?ads.wurl_channel=925
