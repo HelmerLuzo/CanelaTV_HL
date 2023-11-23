@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz"
 #EXTINF:-1 tvg-id="canela-tv" tvg-name="canela-tv" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_tv-16x9_0.jpg" group-title="En Vivo" , Canela TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+#EXTINF:-1 tvg-id="fiestas-en-familia" tvg-name="fiestas-en-familia" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/b5a0742c-linear-fiestas-familia-16x9.jpg" group-title="En Vivo" , Fiestas en Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6292
 #EXTINF:-1 tvg-id="canela-cinema-0" tvg-name="canela-cinema-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-cinema-16x9_1.png" group-title="En Vivo" , Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
 #EXTINF:-1 tvg-id="canela-clasicos" tvg-name="canela-clasicos" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-classics-16x9_0.png" group-title="En Vivo" , Canela Clásicos
@@ -67,8 +69,6 @@ https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/
 https://df4ac36b116646748d613407d93f79aa.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNXtra/playlist.m3u8?ads.wurl_channel=1170
 #EXTINF:-1 tvg-id="rcn-mas" tvg-name="rcn-mas" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/47e355205f52fac9aa8e4ba28d96cf94.png" group-title="En Vivo" , RCN Más
 https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8?ads.wurl_channel=926
-#EXTINF:-1 tvg-id="weather-channel-en-espanol" tvg-name="weather-channel-en-espanol" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-the_weather_channel-16x9.jpg" group-title="En Vivo" , The Weather Channel En Español
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2690
 #EXTINF:-1 tvg-id="cine-en-familia" tvg-name="cine-en-familia" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine_en_familia_navidad-16x9-albert.jpg" group-title="Kids" , Cine en Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5281
 #EXTINF:-1 tvg-id="mundo-pequeno" tvg-name="mundo-pequeno" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-mundo_pequeno-navidadlinear-canela_kids-16x9-albert.jpg" group-title="Kids" , Mundo Pequeño
