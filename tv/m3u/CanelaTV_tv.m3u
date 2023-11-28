@@ -44,9 +44,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 #EXTINF:-1 tvg-id="cine-real" tvg-name="cine-real" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cinereal_cover_fastchannel_1920x1080.jpg" group-title="En Vivo" , Cine Real
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4600
 #EXTINF:-1 tvg-id="/estu-cine" tvg-name="/estu-cine" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/tucine_cover_fastchannel_1920x1080_0.jpg" group-title="En Vivo" , Tu Cine
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4629
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-olytucinelatam-canelatv/playlist.m3u8?device_id=a1c966e29f52334a1b28296f846ac146
 #EXTINF:-1 tvg-id="top-cine-0" tvg-name="top-cine-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/topcine_cover_fastchannel_1920x1080_0.jpg" group-title="En Vivo" , Top Cine
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4628
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-olytopcinelatam-canelatv/playlist.m3u8?device_id=a1c966e29f52334a1b28296f846ac146
 #EXTINF:-1 tvg-id="fish-tank" tvg-name="fish-tank" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canela_fish_tank_horizontal_image.png" group-title="En Vivo" , Fish Tank 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4324
 #EXTINF:-1 tvg-id="teleformula" tvg-name="teleformula" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/pantalla_teleformula.jpg" group-title="En Vivo" , TeleFórmula
