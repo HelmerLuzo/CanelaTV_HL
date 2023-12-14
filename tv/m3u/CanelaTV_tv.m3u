@@ -85,7 +85,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 #EXTINF:-1 tvg-id="masl-non-stop-247" tvg-name="masl-non-stop-247" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/masl-nonstop-16x9.jpg.jpg" group-title="Canales de Deporte & Música en Vivo" , MASL Non-Stop 24/7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4060
-#EXTINF:-1 tvg-id="lidom" tvg-name="lidom" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv_lidom-24-7_16x9.jpg" group-title="Canales de Deporte & Música en Vivo" , LIDOM
+#EXTINF:-1 tvg-id="lidom" tvg-name="lidom" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/1ctv_lidom-24-7_x2_16x9.jpg" group-title="Canales de Deporte & Música en Vivo" , LIDOM
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6325
 #EXTINF:-1 tvg-id="power-nation-en-espanol" tvg-name="power-nation-en-espanol" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelatv_thumbnail_1920x1080_v3.png" group-title="Canales de Deporte & Música en Vivo" , Power Nation en Español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1
