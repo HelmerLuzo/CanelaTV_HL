@@ -3,9 +3,9 @@
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 #EXTINF:-1 tvg-id="con-amor" tvg-name="con-amor" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/a416593e-channel-con_amor-16x9_1.jpg" group-title="En Vivo" , Con Amor
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6602
-#EXTINF:-1 tvg-id="canela-cinema-0" tvg-name="canela-cinema-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-cinema-16x9_1.png" group-title="En Vivo" , Canela Cinema
+#EXTINF:-1 tvg-id="canela-cinema-0" tvg-name="canela-cinema-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_cinema-16x9.jpg" group-title="En Vivo" , Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
-#EXTINF:-1 tvg-id="canela-clasicos" tvg-name="canela-clasicos" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela-classics-16x9_0.png" group-title="En Vivo" , Canela Clásicos
+#EXTINF:-1 tvg-id="canela-clasicos" tvg-name="canela-clasicos" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_clasicos-16x9.jpg" group-title="En Vivo" , Canela Clásicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-id="hercai" tvg-name="hercai" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-hercai-16x9.jpg" group-title="En Vivo" , Hercai
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6286
@@ -15,7 +15,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 #EXTINF:-1 tvg-id="novelas-turcas" tvg-name="novelas-turcas" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-turcas-16x9.jpg" group-title="En Vivo" , Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
-#EXTINF:-1 tvg-id="canela-telenovelas" tvg-name="canela-telenovelas" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/image.jpg" group-title="En Vivo" , Canela Telenovelas
+#EXTINF:-1 tvg-id="canela-telenovelas" tvg-name="canela-telenovelas" tvg-logo="" group-title="En Vivo" , Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1 tvg-id="novelas-inolvidables" tvg-name="novelas-inolvidables" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-novelas-inolvidables-16x9_0.jpg" group-title="En Vivo" , Novelas Inolvidables
 https://ov.ottera.tv/channels/cnm_niv/master.m3u8?
