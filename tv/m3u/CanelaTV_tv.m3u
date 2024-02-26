@@ -21,7 +21,7 @@ https://ov.ottera.tv/channels/cnm_niv/master.m3u8?
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="canela-horror" tvg-name="canela-horror" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/fafe5a48-channel-canela_horror-16x9.jpg" group-title="En Vivo" , Canela Horror
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
-#EXTINF:-1 tvg-id="todo-drama" tvg-name="todo-drama" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-todo_drama-16x9.jpg" group-title="En Vivo" , Todo Drama
+#EXTINF:-1 tvg-id="todo-novelas-mas-pasiones" tvg-name="todo-novelas-mas-pasiones" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel_logo_1920x1080_16x9.jpg" group-title="En Vivo" , Todo Novelas, más Pasiones
 https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8?ads.wurl_channel=1563
 #EXTINF:-1 tvg-id="azteca-uno-1-hora" tvg-name="azteca-uno-1-hora" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/aztecauno_c_1920x1080.png" group-title="En Vivo" , AZTECA UNO -1 hora 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
