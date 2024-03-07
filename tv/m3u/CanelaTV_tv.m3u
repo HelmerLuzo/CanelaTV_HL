@@ -79,7 +79,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 #EXTINF:-1 tvg-id="moonbug-kids" tvg-name="moonbug-kids" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-moonbug_kidslinear-moonbug_kids-16x9-albert.jpg" group-title="Kids" , Moonbug Kids 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
-#EXTINF:-1 tvg-id="haz-clic" tvg-name="haz-clic" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-haz_cliclinear-haz_clic-16x9-albert.jpg" group-title="Kids" , Haz Clic!
+#EXTINF:-1 tvg-id="canela-familia" tvg-name="canela-familia" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-canelafamilia-16x9-jainer.jpg" group-title="Kids" , Canela Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 #EXTINF:-1 tvg-id="toon-goggles-en-espanol-0" tvg-name="toon-goggles-en-espanol-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/JyiWn41j_we7IY7BasG5bbwCOGmPPbiZJg6pljkcG4s.jpg" group-title="Kids" , Toon Goggles en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
