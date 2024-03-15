@@ -1,6 +1,6 @@
 {
     "name": "Canela TV by HL",
-    "author": "Actualizada 15/03/2024 10:17",
+    "author": "Actualizada 15/03/2024 16:17",
     "epg": "https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz",
     "image": "https://helmerluzo.github.io/CanelaTV_HL/canela.png",
     "url": "https://helmerluzo.github.io/CanelaTV_HL/tv/w3u/CanelaTV_tv.w3u",
@@ -150,13 +150,13 @@
                 {
                     "name": "Free Tv Estelar",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/freetv_esterlar_1920x1080.jpg",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-olytucinelatam-canelatv/playlist.m3u8?device_id=13a8e086657d82c29d9a3b90cf0d90f7",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-olytucinelatam-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1",
                     "epgId": "free-tv-estelar"
                 },
                 {
                     "name": "Free Tv Acción",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/freetv_accion_1920x1080.jpg",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-olytopcinelatam-canelatv/playlist.m3u8?device_id=13a8e086657d82c29d9a3b90cf0d90f7",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-olytopcinelatam-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1",
                     "epgId": "free-tv-accion"
                 },
                 {
@@ -168,19 +168,19 @@
                 {
                     "name": "Flou Cine",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-flou_cine-16x9.jpg",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=13a8e086657d82c29d9a3b90cf0d90f7",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1",
                     "epgId": "flou-cine"
                 },
                 {
                     "name": "FLOU Caribeño",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel_banner_flou_caribeno_1920_x_1080_9.16.jpg",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-canelatv/playlist.m3u8?device_id=13a8e086657d82c29d9a3b90cf0d90f7",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1",
                     "epgId": "flou-caribeno"
                 },
                 {
                     "name": "Vive Kanal D Drama",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/vive_kdd_canela_media-1920x108033.jpg",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=13a8e086657d82c29d9a3b90cf0d90f7",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1",
                     "epgId": "vive-kanal-d-drama"
                 },
                 {
@@ -216,7 +216,7 @@
                 {
                     "name": "Tastemade en Español",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/apk2nzj-fw95sa2rrnrub3hg-xtq1x9rgg.jpg",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8?device_id=13a8e086657d82c29d9a3b90cf0d90f7",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1",
                     "epgId": "tastemade-en-espanol-0"
                 }
             ]
@@ -274,6 +274,12 @@
             "image": "",
             "stations": [
                 {
+                    "name": "CANELA MUSIC PRESENTS",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm_cmp_01_16x9_1_0.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548",
+                    "epgId": "canela-music-presents"
+                },
+                {
                     "name": "MASL Non-Stop 24/7",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/masl-nonstop-16x9.jpg.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4060",
@@ -288,7 +294,7 @@
                 {
                     "name": "Power Nation en Español",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelatv_thumbnail_1920x1080_v3.png",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=13a8e086657d82c29d9a3b90cf0d90f7",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1",
                     "epgId": "power-nation-en-espanol"
                 },
                 {
@@ -296,12 +302,6 @@
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/CNv4Q30IOM7-ZUnfOeACh_4eGtl-2Whey5zBt4afg20.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010",
                     "epgId": "itv-deportes"
-                },
-                {
-                    "name": "CANELA MUSIC PRESENTS",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelapresents_16-9_0.jpg",
-                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548",
-                    "epgId": "canela-music-presents"
                 },
                 {
                     "name": "Canela Hits",
