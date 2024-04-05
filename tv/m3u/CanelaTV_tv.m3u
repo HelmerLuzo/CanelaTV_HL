@@ -45,12 +45,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5400
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 #EXTINF:-1 tvg-id="todo-cine" tvg-name="todo-cine" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-todo_cine-16x9.jpg" group-title="En Vivo" , Todo Cine
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
-#EXTINF:-1 tvg-id="free-tv-drama-0" tvg-name="free-tv-drama-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/freetv_drama_1920x1080_2.jpg" group-title="En Vivo" , Free Tv Drama
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4600
-#EXTINF:-1 tvg-id="free-tv-estelar" tvg-name="free-tv-estelar" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/freetv_esterlar_1920x1080.jpg" group-title="En Vivo" , Free Tv Estelar
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-olytucinelatam-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1
-#EXTINF:-1 tvg-id="free-tv-accion" tvg-name="free-tv-accion" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/freetv_accion_1920x1080.jpg" group-title="En Vivo" , Free Tv Acción
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-olytopcinelatam-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1
 #EXTINF:-1 tvg-id="teleformula" tvg-name="teleformula" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/pantalla_teleformula.jpg" group-title="En Vivo" , TeleFórmula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 #EXTINF:-1 tvg-id="flou-cine" tvg-name="flou-cine" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-flou_cine-16x9.jpg" group-title="En Vivo" , Flou Cine
@@ -69,6 +63,8 @@ https://df4ac36b116646748d613407d93f79aa.mediatailor.us-east-1.amazonaws.com/v1/
 https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8?ads.wurl_channel=926
 #EXTINF:-1 tvg-id="weather-channel-en-espanol" tvg-name="weather-channel-en-espanol" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-the_weather_channel-16x9.jpg" group-title="En Vivo" , The Weather Channel En Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2690
+#EXTINF:-1 tvg-id="tastemade-en-espanol-0" tvg-name="tastemade-en-espanol-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/apk2nzj-fw95sa2rrnrub3hg-xtq1x9rgg.jpg" group-title="En Vivo" , Tastemade en Español
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1
 #EXTINF:-1 tvg-id="canela-kids" tvg-name="canela-kids" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela_kids.psdlinear-canela_kids-16x9-albert_0.jpg" group-title="Kids" , Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 tvg-id="canela-familia" tvg-name="canela-familia" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-canelafamilia-16x9-jainer.jpg" group-title="Kids" , Canela Familia
