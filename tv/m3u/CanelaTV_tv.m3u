@@ -17,8 +17,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1 tvg-id="novelas-inolvidables" tvg-name="novelas-inolvidables" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-novelas-inolvidables-16x9_0.jpg" group-title="En Vivo" , Novelas Inolvidables
 https://ov.ottera.tv/channels/cnm_niv/master.m3u8?
-#EXTINF:-1 tvg-id="meganoticias" tvg-name="meganoticias" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-meganoticias-16x9_0.jpg" group-title="En Vivo" , Meganoticias
-https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8?ads.wurl_channel=925
 #EXTINF:-1 tvg-id="canela-horror" tvg-name="canela-horror" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/fafe5a48-channel-canela_horror-16x9.jpg" group-title="En Vivo" , Canela Horror
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
 #EXTINF:-1 tvg-id="canal-6-cdmx" tvg-name="canal-6-cdmx" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canal_6_1920x1080.jpg" group-title="En Vivo" , Canal 6 CDMX
@@ -29,6 +27,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 tvg-id="azteca-internacional" tvg-name="azteca-internacional" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/64NBu8-mrE2KlvXq282kDdxm8GStzrb7lcAS7HuUlr0.jpg" group-title="En Vivo" , Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
+#EXTINF:-1 tvg-id="meganoticias" tvg-name="meganoticias" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-meganoticias-16x9_0.jpg" group-title="En Vivo" , Meganoticias
+https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8?ads.wurl_channel=925
 #EXTINF:-1 tvg-id="cine-romantico" tvg-name="cine-romantico" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-romantico.png" group-title="En Vivo" , Cine Romántico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="true-crime" tvg-name="true-crime" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-true_crime-16x9.jpg" group-title="En Vivo" , True Crime
