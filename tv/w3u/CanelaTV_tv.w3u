@@ -1,6 +1,6 @@
 {
     "name": "Canela TV by HL",
-    "author": "Actualizada 11/04/2024 22:17",
+    "author": "Actualizada 12/04/2024 04:17",
     "epg": "https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz",
     "image": "https://helmerluzo.github.io/CanelaTV_HL/canela.png",
     "url": "https://helmerluzo.github.io/CanelaTV_HL/tv/w3u/CanelaTV_tv.w3u",
@@ -22,12 +22,6 @@
                     "epgId": "canela-cinema-0"
                 },
                 {
-                    "name": "Inspiración y Fe",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-iyf2023-16x9.jpg",
-                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847",
-                    "epgId": "inspiracion-y-fe"
-                },
-                {
                     "name": "Canela Clásicos",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_clasicos-16x9.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=652",
@@ -46,6 +40,12 @@
                     "epgId": "canela-desastres"
                 },
                 {
+                    "name": "Cine Picante",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-picante-16x9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629",
+                    "epgId": "cine-picante"
+                },
+                {
                     "name": "Novelas Turcas",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-turcas-16x9.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088",
@@ -62,6 +62,24 @@
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-novelas-inolvidables-16x9_0.jpg",
                     "url": "https://ov.ottera.tv/channels/cnm_niv/master.m3u8?",
                     "epgId": "novelas-inolvidables"
+                },
+                {
+                    "name": "True Crime",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-true_crime-16x9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985",
+                    "epgId": "true-crime"
+                },
+                {
+                    "name": "Acción Mexicana",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-accion_mexicana-16x9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153",
+                    "epgId": "accion-mexicana"
+                },
+                {
+                    "name": "Inspiración y Fe",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-iyf2023-16x9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847",
+                    "epgId": "inspiracion-y-fe"
                 },
                 {
                     "name": "Canela Horror",
@@ -104,24 +122,6 @@
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-romantico.png",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=656",
                     "epgId": "cine-romantico"
-                },
-                {
-                    "name": "True Crime",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-true_crime-16x9.jpg",
-                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985",
-                    "epgId": "true-crime"
-                },
-                {
-                    "name": "Cine Picante",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-picante-16x9.jpg",
-                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629",
-                    "epgId": "cine-picante"
-                },
-                {
-                    "name": "Acción Mexicana",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-accion_mexicana-16x9.jpg",
-                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153",
-                    "epgId": "accion-mexicana"
                 },
                 {
                     "name": "Pelimex",

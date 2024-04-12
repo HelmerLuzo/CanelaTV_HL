@@ -3,20 +3,26 @@
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 #EXTINF:-1 tvg-id="canela-cinema-0" tvg-name="canela-cinema-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_cinema-16x9.jpg" group-title="En Vivo" , Canela Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
-#EXTINF:-1 tvg-id="inspiracion-y-fe" tvg-name="inspiracion-y-fe" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-iyf2023-16x9.jpg" group-title="En Vivo" , Inspiración y Fe
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 #EXTINF:-1 tvg-id="canela-clasicos" tvg-name="canela-clasicos" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_clasicos-16x9.jpg" group-title="En Vivo" , Canela Clásicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-id="hercai" tvg-name="hercai" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-hercai-16x9.jpg" group-title="En Vivo" , Hercai
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6286
 #EXTINF:-1 tvg-id="canela-desastres" tvg-name="canela-desastres" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/df5644e4-channel-desastres-16x9.jpg" group-title="En Vivo" , Canela Desastres
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7364
+#EXTINF:-1 tvg-id="cine-picante" tvg-name="cine-picante" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-picante-16x9.jpg" group-title="En Vivo" , Cine Picante
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629
 #EXTINF:-1 tvg-id="novelas-turcas" tvg-name="novelas-turcas" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-turcas-16x9.jpg" group-title="En Vivo" , Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:-1 tvg-id="canela-telenovelas" tvg-name="canela-telenovelas" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_telenovelas-16x9_0.jpg" group-title="En Vivo" , Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1 tvg-id="novelas-inolvidables" tvg-name="novelas-inolvidables" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-novelas-inolvidables-16x9_0.jpg" group-title="En Vivo" , Novelas Inolvidables
 https://ov.ottera.tv/channels/cnm_niv/master.m3u8?
+#EXTINF:-1 tvg-id="true-crime" tvg-name="true-crime" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-true_crime-16x9.jpg" group-title="En Vivo" , True Crime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
+#EXTINF:-1 tvg-id="accion-mexicana" tvg-name="accion-mexicana" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-accion_mexicana-16x9.jpg" group-title="En Vivo" , Acción Mexicana
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+#EXTINF:-1 tvg-id="inspiracion-y-fe" tvg-name="inspiracion-y-fe" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-iyf2023-16x9.jpg" group-title="En Vivo" , Inspiración y Fe
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 #EXTINF:-1 tvg-id="canela-horror" tvg-name="canela-horror" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/fafe5a48-channel-canela_horror-16x9.jpg" group-title="En Vivo" , Canela Horror
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
 #EXTINF:-1 tvg-id="canal-6-cdmx" tvg-name="canal-6-cdmx" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canal_6_1920x1080.jpg" group-title="En Vivo" , Canal 6 CDMX
@@ -31,12 +37,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
 https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8?ads.wurl_channel=925
 #EXTINF:-1 tvg-id="cine-romantico" tvg-name="cine-romantico" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-romantico.png" group-title="En Vivo" , Cine Romántico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
-#EXTINF:-1 tvg-id="true-crime" tvg-name="true-crime" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-true_crime-16x9.jpg" group-title="En Vivo" , True Crime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
-#EXTINF:-1 tvg-id="cine-picante" tvg-name="cine-picante" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-picante-16x9.jpg" group-title="En Vivo" , Cine Picante
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629
-#EXTINF:-1 tvg-id="accion-mexicana" tvg-name="accion-mexicana" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-accion_mexicana-16x9.jpg" group-title="En Vivo" , Acción Mexicana
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 #EXTINF:-1 tvg-id="pelimex" tvg-name="pelimex" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/pelimex-v2.jpg" group-title="En Vivo" , Pelimex
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/playlist.m3u8?ads.wurl_channel=1184
 #EXTINF:-1 tvg-id="corazon" tvg-name="corazon" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/corazon_c_1920x1080.png" group-title="En Vivo" , Corazón
