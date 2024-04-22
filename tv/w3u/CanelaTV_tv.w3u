@@ -1,6 +1,6 @@
 {
     "name": "Canela TV by HL",
-    "author": "Actualizada 22/04/2024 10:17",
+    "author": "Actualizada 22/04/2024 16:17",
     "epg": "https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz",
     "image": "https://helmerluzo.github.io/CanelaTV_HL/canela.png",
     "url": "https://helmerluzo.github.io/CanelaTV_HL/tv/w3u/CanelaTV_tv.w3u",
@@ -16,16 +16,16 @@
                     "epgId": "canela-tv"
                 },
                 {
-                    "name": "Canela Cinema",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_cinema-16x9.jpg",
+                    "name": "Cinema",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-cinema-16x9_0.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134",
-                    "epgId": "canela-cinema-0"
+                    "epgId": "cinema-1"
                 },
                 {
                     "name": "Canela Clásicos",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_clasicos-16x9.jpg",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-clasicos-16x9_8.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=652",
-                    "epgId": "canela-clasicos"
+                    "epgId": "clasicos-0"
                 },
                 {
                     "name": "Hercai",
@@ -52,14 +52,14 @@
                     "epgId": "novelas-turcas"
                 },
                 {
-                    "name": "Canela Telenovelas",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_telenovelas-16x9_0.jpg",
+                    "name": "Telenovelas",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-telenovelas-16x9.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152",
-                    "epgId": "canela-telenovelas"
+                    "epgId": "telenovelas"
                 },
                 {
                     "name": "Novelas Inolvidables",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-novelas-inolvidables-16x9_0.jpg",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-novelas-inolvidables-16x9_1.jpg",
                     "url": "https://ov.ottera.tv/channels/cnm_niv/master.m3u8?",
                     "epgId": "novelas-inolvidables"
                 },
@@ -162,19 +162,19 @@
                 {
                     "name": "Flou Cine",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-flou_cine-16x9.jpg",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=13a8e086657d82c29d9a3b90cf0d90f7",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1",
                     "epgId": "flou-cine"
                 },
                 {
                     "name": "FLOU Caribeño",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel_banner_flou_caribeno_1920_x_1080_9.16.jpg",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-canelatv/playlist.m3u8?device_id=13a8e086657d82c29d9a3b90cf0d90f7",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1",
                     "epgId": "flou-caribeno"
                 },
                 {
                     "name": "Vive Kanal D Drama",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/vive_kdd_canela_media-1920x108033.jpg",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=13a8e086657d82c29d9a3b90cf0d90f7",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1",
                     "epgId": "vive-kanal-d-drama"
                 },
                 {
@@ -204,7 +204,7 @@
                 {
                     "name": "Tastemade en Español",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/apk2nzj-fw95sa2rrnrub3hg-xtq1x9rgg.jpg",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8?device_id=13a8e086657d82c29d9a3b90cf0d90f7",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1",
                     "epgId": "tastemade-en-espanol-0"
                 }
             ]
@@ -288,7 +288,7 @@
                 {
                     "name": "Power Nation en Español",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelatv_thumbnail_1920x1080_v3.png",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=13a8e086657d82c29d9a3b90cf0d90f7",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1",
                     "epgId": "power-nation-en-espanol"
                 },
                 {
