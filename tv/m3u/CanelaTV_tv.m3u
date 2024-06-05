@@ -18,7 +18,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:-1 tvg-id="telenovelas" tvg-name="telenovelas" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-telenovelas-16x9_0.jpg" group-title="En Vivo" , Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1 tvg-id="novelas-inolvidables" tvg-name="novelas-inolvidables" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-novelas-inolvidables-16x9_1.jpg" group-title="En Vivo" , Novelas Inolvidables
-https://ov.ottera.tv/channels/cnm_niv/master.m3u8?
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5550
 #EXTINF:-1 tvg-id="true-crime" tvg-name="true-crime" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-true_crime-16x9.jpg" group-title="En Vivo" , True Crime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
 #EXTINF:-1 tvg-id="accion-mexicana" tvg-name="accion-mexicana" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-accion_mexicana-16x9.jpg" group-title="En Vivo" , Acción Mexicana
