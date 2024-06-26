@@ -37,7 +37,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 tvg-id="azteca-internacional" tvg-name="azteca-internacional" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/64NBu8-mrE2KlvXq282kDdxm8GStzrb7lcAS7HuUlr0.jpg" group-title="En Vivo" , Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
-#EXTINF:-1 tvg-id="telediario-now" tvg-name="telediario-now" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/telediario_now_1920x1080.jpg" group-title="En Vivo" , Telediario Now
+#EXTINF:-1 tvg-id="telediario-now" tvg-name="telediario-now" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/1hLrgUkhr-9iPr9L1fmh1Ma9GQnLT5fJHd_fDrTfIAk.jpg" group-title="En Vivo" , Telediario Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 #EXTINF:-1 tvg-id="meganoticias" tvg-name="meganoticias" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-meganoticias-16x9_0.jpg" group-title="En Vivo" , Meganoticias
 https://a37d474b6bb9441fa17e3e1ab3d55fce.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_MegaNoticias/playlist.m3u8?ads.wurl_channel=925
