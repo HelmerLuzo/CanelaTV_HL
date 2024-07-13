@@ -1,6 +1,6 @@
 {
     "name": "Canela TV by HL",
-    "author": "Actualizada 13/07/2024 04:17",
+    "author": "Actualizada 13/07/2024 10:17",
     "epg": "https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz",
     "image": "https://helmerluzo.github.io/CanelaTV_HL/canela.png",
     "url": "https://helmerluzo.github.io/CanelaTV_HL/tv/w3u/CanelaTV_tv.w3u",
@@ -192,19 +192,19 @@
                 {
                     "name": "Flou Cine",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-flou_cine-16x9.jpg",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=fc36df696374f872ca0c7ed552529e56",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=d26e28a36c4b28da2374b9e0278c79fc",
                     "epgId": "flou-cine"
                 },
                 {
                     "name": "FLOU Caribeño",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel_banner_flou_caribeno_1920_x_1080_9.16.jpg",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-canelatv/playlist.m3u8?device_id=fc36df696374f872ca0c7ed552529e56",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-canelatv/playlist.m3u8?device_id=d26e28a36c4b28da2374b9e0278c79fc",
                     "epgId": "flou-caribeno"
                 },
                 {
                     "name": "Vive Kanal D Drama",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/vive_kdd_canela_media-1920x1080.jpg",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=fc36df696374f872ca0c7ed552529e56",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=d26e28a36c4b28da2374b9e0278c79fc",
                     "epgId": "vive-kanal-d-drama"
                 },
                 {
@@ -216,7 +216,7 @@
                 {
                     "name": "Tastemade en Español",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/apk2nzj-fw95sa2rrnrub3hg-xtq1x9rgg.jpg",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8?device_id=fc36df696374f872ca0c7ed552529e56",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8?device_id=d26e28a36c4b28da2374b9e0278c79fc",
                     "epgId": "tastemade-en-espanol-0"
                 }
             ]
@@ -306,7 +306,7 @@
                 {
                     "name": "Power Nation en Español",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelatv_thumbnail_1920x1080_v3.png",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=fc36df696374f872ca0c7ed552529e56",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=d26e28a36c4b28da2374b9e0278c79fc",
                     "epgId": "power-nation-en-espanol"
                 },
                 {
