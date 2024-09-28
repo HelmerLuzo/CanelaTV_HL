@@ -22,7 +22,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5550
 #EXTINF:-1 tvg-id="always-funny-en-espanol" tvg-name="always-funny-en-espanol" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/afe_canela_still_1920x1080_1.png" group-title="En Vivo" , Always Funny en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12147
 #EXTINF:-1 tvg-id="vive-kanal-d-drama" tvg-name="vive-kanal-d-drama" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/vive_kdd_canela_media-1920x1080.jpg" group-title="En Vivo" , Vive Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=0b555158bdccd66a81cf3f998d0abc62
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=d26e28a36c4b28da2374b9e0278c79fc
 #EXTINF:-1 tvg-id="novelisima" tvg-name="novelisima" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/w1snMhKwik97IWj_ZJLGraHMgzDwxGnkmiBkywhSCrI.jpg" group-title="En Vivo" , Novelísima 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-id="desastres" tvg-name="desastres" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-desastres-16x9.jpg" group-title="En Vivo" , Desastres
@@ -62,11 +62,11 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 #EXTINF:-1 tvg-id="teleformula" tvg-name="teleformula" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/pantalla_teleformula.jpg" group-title="En Vivo" , TeleFórmula
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 #EXTINF:-1 tvg-id="flou-cine" tvg-name="flou-cine" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-flou_cine-16x9.jpg" group-title="En Vivo" , Flou Cine
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=0b555158bdccd66a81cf3f998d0abc62
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=d26e28a36c4b28da2374b9e0278c79fc
 #EXTINF:-1 tvg-id="flou-caribeno" tvg-name="flou-caribeno" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel_banner_flou_caribeno_1920_x_1080_9.16.jpg" group-title="En Vivo" , FLOU Caribeño
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-canelatv/playlist.m3u8?device_id=0b555158bdccd66a81cf3f998d0abc62
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-canelatv/playlist.m3u8?device_id=d26e28a36c4b28da2374b9e0278c79fc
 #EXTINF:-1 tvg-id="tastemade-en-espanol-0" tvg-name="tastemade-en-espanol-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/apk2nzj-fw95sa2rrnrub3hg-xtq1x9rgg.jpg" group-title="En Vivo" , Tastemade en Español
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8?device_id=0b555158bdccd66a81cf3f998d0abc62
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8?device_id=d26e28a36c4b28da2374b9e0278c79fc
 #EXTINF:-1 tvg-id="canela-kids" tvg-name="canela-kids" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-canela_kids-16x9_0.jpg" group-title="Kids" , Canela Kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 tvg-id="canela-familia" tvg-name="canela-familia" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-canelafamilia-16x9-jainer.jpg" group-title="Kids" , Canela Familia
@@ -92,7 +92,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4060
 #EXTINF:-1 tvg-id="lidom" tvg-name="lidom" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/1ctv_lidom-24-7_x2_16x9.jpg" group-title="Canales de Deporte & Música en Vivo" , LIDOM
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6325
 #EXTINF:-1 tvg-id="power-nation-en-espanol" tvg-name="power-nation-en-espanol" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelatv_thumbnail_1920x1080_v3.png" group-title="Canales de Deporte & Música en Vivo" , Power Nation en Español
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=0b555158bdccd66a81cf3f998d0abc62
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=d26e28a36c4b28da2374b9e0278c79fc
 #EXTINF:-1 tvg-id="itv-deportes" tvg-name="itv-deportes" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/CNv4Q30IOM7-ZUnfOeACh_4eGtl-2Whey5zBt4afg20.jpg" group-title="Canales de Deporte & Música en Vivo" , ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1 tvg-id="canela-music-presents" tvg-name="canela-music-presents" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm_cmp_01_16x9_1_0.jpg" group-title="Canales de Deporte & Música en Vivo" , CANELA MUSIC PRESENTS
