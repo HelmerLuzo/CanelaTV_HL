@@ -1,6 +1,6 @@
 {
     "name": "Canela TV by HL",
-    "author": "Actualizada 24/10/2024 16:46",
+    "author": "Actualizada 25/10/2024 06:50",
     "epg": "https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz",
     "image": "https://helmerluzo.github.io/CanelaTV_HL/canela.png",
     "url": "https://helmerluzo.github.io/CanelaTV_HL/tv/w3u/CanelaTV_tv.w3u",
@@ -125,7 +125,7 @@
                 },
                 {
                     "name": "AZTECA UNO -1 hora",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/aztecauno_c_1920x1080.png",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/uno-1920x1080.png",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396",
                     "epgId": "azteca-uno-1-hora"
                 },

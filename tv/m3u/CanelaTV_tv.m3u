@@ -37,7 +37,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 #EXTINF:-1 tvg-id="c4-en-alerta" tvg-name="c4-en-alerta" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/c4_en_alerta_1920x1080_1.jpg" group-title="En Vivo" , C4 en Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
-#EXTINF:-1 tvg-id="azteca-uno-1-hora" tvg-name="azteca-uno-1-hora" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/aztecauno_c_1920x1080.png" group-title="En Vivo" , AZTECA UNO -1 hora
+#EXTINF:-1 tvg-id="azteca-uno-1-hora" tvg-name="azteca-uno-1-hora" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/uno-1920x1080.png" group-title="En Vivo" , AZTECA UNO -1 hora
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 tvg-id="azteca-internacional" tvg-name="azteca-internacional" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/64NBu8-mrE2KlvXq282kDdxm8GStzrb7lcAS7HuUlr0.jpg" group-title="En Vivo" , Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
