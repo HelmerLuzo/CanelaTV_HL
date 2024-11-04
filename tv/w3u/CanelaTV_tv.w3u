@@ -1,6 +1,6 @@
 {
     "name": "Canela TV by HL",
-    "author": "Actualizada 04/11/2024 16:17",
+    "author": "Actualizada 04/11/2024 22:17",
     "epg": "https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz",
     "image": "https://helmerluzo.github.io/CanelaTV_HL/canela.png",
     "url": "https://helmerluzo.github.io/CanelaTV_HL/tv/w3u/CanelaTV_tv.w3u",
@@ -32,12 +32,6 @@
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-narcodrama-16x9.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=11099",
                     "epgId": "narco-drama"
-                },
-                {
-                    "name": "Canela Horror",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/fafe5a48-channel-canela_horror-16x9.jpg",
-                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029",
-                    "epgId": "canela-horror"
                 },
                 {
                     "name": "Inspiración y Fe",
@@ -104,6 +98,12 @@
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-accion_mexicana-16x9_0.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153",
                     "epgId": "accion-mexicana"
+                },
+                {
+                    "name": "Canela Horror",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/fafe5a48-channel-canela_horror-16x9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029",
+                    "epgId": "canela-horror"
                 },
                 {
                     "name": "Canal 6 CDMX",

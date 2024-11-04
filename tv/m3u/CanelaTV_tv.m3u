@@ -7,8 +7,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 #EXTINF:-1 tvg-id="narco-drama" tvg-name="narco-drama" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-narcodrama-16x9.jpg" group-title="En Vivo" , Narco-Drama
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11099
-#EXTINF:-1 tvg-id="canela-horror" tvg-name="canela-horror" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/fafe5a48-channel-canela_horror-16x9.jpg" group-title="En Vivo" , Canela Horror
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
 #EXTINF:-1 tvg-id="inspiracion-y-fe" tvg-name="inspiracion-y-fe" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-iyf2023-16x9.jpg" group-title="En Vivo" , Inspiración y Fe
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 #EXTINF:-1 tvg-id="hercai" tvg-name="hercai" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-hercai-16x9.jpg" group-title="En Vivo" , Hercai
@@ -31,6 +29,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5629
 #EXTINF:-1 tvg-id="accion-mexicana" tvg-name="accion-mexicana" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-accion_mexicana-16x9_0.jpg" group-title="En Vivo" , Acción Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+#EXTINF:-1 tvg-id="canela-horror" tvg-name="canela-horror" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/fafe5a48-channel-canela_horror-16x9.jpg" group-title="En Vivo" , Canela Horror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
 #EXTINF:-1 tvg-id="canal-6-cdmx" tvg-name="canal-6-cdmx" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canal_6_1920x1080_0.jpg" group-title="En Vivo" , Canal 6 CDMX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 #EXTINF:-1 tvg-id="milenio-television" tvg-name="milenio-television" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/s7fswdPBp0Uf2own2Ivnw1mpW45uXwdq3jdjC7fEEVg.jpg" group-title="En Vivo" , Milenio Televisión
