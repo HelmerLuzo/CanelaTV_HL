@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz"
-#EXTINF:-1 tvg-id="canela-tv" tvg-name="canela-tv" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canelatv-16x9_4.jpg" group-title="En Vivo" , Canela TV
+#EXTINF:-1 tvg-id="canela-tv" tvg-name="canela-tv" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canelatv-16x9_5_2.jpg" group-title="En Vivo" , Canela TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 #EXTINF:-1 tvg-id="cinema-1" tvg-name="cinema-1" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-cinema-16x9_1.jpg" group-title="En Vivo" , Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
