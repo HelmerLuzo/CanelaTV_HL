@@ -43,8 +43,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
 #EXTINF:-1 tvg-id="telediario-now" tvg-name="telediario-now" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/1hLrgUkhr-9iPr9L1fmh1Ma9GQnLT5fJHd_fDrTfIAk.jpg" group-title="En Vivo" , Telediario Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
-#EXTINF:-1 tvg-id="weather-channel-en-espanol" tvg-name="weather-channel-en-espanol" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-the_weather_channel-16x9.jpg" group-title="En Vivo" , The Weather Channel En Español
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2690
 #EXTINF:-1 tvg-id="rcn-mas" tvg-name="rcn-mas" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/horizontal_logo_rcn_mas_-_4_novelas_copy.jpg" group-title="En Vivo" , RCN Más
 https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8?ads.wurl_channel=926
 #EXTINF:-1 tvg-id="cine-romantico" tvg-name="cine-romantico" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-romantico.png" group-title="En Vivo" , Cine Romántico
