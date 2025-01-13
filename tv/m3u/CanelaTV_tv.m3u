@@ -5,7 +5,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
 #EXTINF:-1 tvg-id="clasicos-0" tvg-name="clasicos-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-clasicos-16x9_8.jpg" group-title="En Vivo" , Clásicos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:-1 tvg-id="fiestas-en-familia" tvg-name="fiestas-en-familia" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-fiestas-familia-16x9_0.jpg" group-title="En Vivo" , Fiestas en Familia
+#EXTINF:-1 tvg-id="con-amor" tvg-name="con-amor" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-con_amor-16x9_0.jpg" group-title="En Vivo" , Con amor
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6602
 #EXTINF:-1 tvg-id="narco-drama" tvg-name="narco-drama" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-narcodrama-16x9.jpg" group-title="En Vivo" , Narco-Drama
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11099
@@ -73,7 +73,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11681
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5281
 #EXTINF:-1 tvg-id="mundo-pequeno" tvg-name="mundo-pequeno" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-mundo-pequeno-16x9.jpg" group-title="Kids" , Mundo Pequeño
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
-#EXTINF:-1 tvg-id="zona-de-accion" tvg-name="zona-de-accion" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-zona-de-accion-16x9.jpg" group-title="Kids" , Zona de Acción
+#EXTINF:-1 tvg-id="zona-de-aventuras" tvg-name="zona-de-aventuras" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-zona-de-accion-16x9.jpg" group-title="Kids" , Zona de Aventuras
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 #EXTINF:-1 tvg-id="moonbug-kids" tvg-name="moonbug-kids" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-moonbug-16x9.jpg" group-title="Kids" , Moonbug Kids 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
