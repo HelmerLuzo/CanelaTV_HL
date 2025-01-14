@@ -1,6 +1,6 @@
 {
     "name": "Canela TV by HL",
-    "author": "Actualizada 14/01/2025 16:17",
+    "author": "Actualizada 14/01/2025 22:17",
     "epg": "https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz",
     "image": "https://helmerluzo.github.io/CanelaTV_HL/canela.png",
     "url": "https://helmerluzo.github.io/CanelaTV_HL/tv/w3u/CanelaTV_tv.w3u",
@@ -77,7 +77,7 @@
                 },
                 {
                     "name": "Vive Kanal D Drama",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/vive_kdd_canela_media-1920x1080.jpg",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/vive_kdd_canela_media-1920x1080_d_0.jpg",
                     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=e30ddb3ce3777703c0c8dd41578c3b71",
                     "epgId": "vive-kanal-d-drama"
                 },
@@ -238,22 +238,10 @@
                     "epgId": "mundo-pequeno"
                 },
                 {
-                    "name": "Zona de Aventuras",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-zona-de-accion-16x9.jpg",
-                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312",
-                    "epgId": "zona-de-aventuras"
-                },
-                {
                     "name": "Moonbug Kids ",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-moonbug-16x9.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365",
                     "epgId": "moonbug-kids"
-                },
-                {
-                    "name": "Planeta de Aventuras",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-planeta-de-aventuras-16x9.jpg",
-                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311",
-                    "epgId": "planeta-de-aventuras"
                 },
                 {
                     "name": "Toon Goggles en Español",
