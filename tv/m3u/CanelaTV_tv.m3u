@@ -73,8 +73,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11681
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5281
 #EXTINF:-1 tvg-id="mundo-pequeno" tvg-name="mundo-pequeno" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-mundo-pequeno-16x9.jpg" group-title="Kids" , Mundo Pequeño
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
-#EXTINF:-1 tvg-id="moonbug-kids" tvg-name="moonbug-kids" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-moonbug-16x9.jpg" group-title="Kids" , Moonbug Kids 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
 #EXTINF:-1 tvg-id="toon-goggles-en-espanol-0" tvg-name="toon-goggles-en-espanol-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/WhxvMJFFonzITVAqe_rRm5A0xXxTbfDi_bIM829jH6A.jpg" group-title="Kids" , Toon Goggles en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 #EXTINF:-1 tvg-id="canela-deportes" tvg-name="canela-deportes" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-channel-caneladeportes-07-2024_v3_16x9_0.jpg" group-title="Canales de Deporte & Música en Vivo" , Canela Deportes
