@@ -33,7 +33,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6029
 #EXTINF:-1 tvg-id="canal-6-cdmx" tvg-name="canal-6-cdmx" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canal_6_1920x1080_0.jpg" group-title="En Vivo" , Canal 6 CDMX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
-#EXTINF:-1 tvg-id="milenio-television" tvg-name="milenio-television" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/s7fswdPBp0Uf2own2Ivnw1mpW45uXwdq3jdjC7fEEVg.jpg" group-title="En Vivo" , Milenio Televisión
+#EXTINF:-1 tvg-id="milenio-television" tvg-name="milenio-television" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/mhGs9Til9WFfX3xO7Pk0wq1TFWitB7X158AAMlik9_U.jpg" group-title="En Vivo" , Milenio Televisión
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 #EXTINF:-1 tvg-id="c4-en-alerta" tvg-name="c4-en-alerta" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/c4_en_alerta_1920x1080_1.jpg" group-title="En Vivo" , C4 en Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
