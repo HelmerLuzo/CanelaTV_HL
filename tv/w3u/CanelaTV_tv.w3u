@@ -1,6 +1,6 @@
 {
     "name": "Canela TV by HL",
-    "author": "Actualizada 19/01/2025 16:17",
+    "author": "Actualizada 21/01/2025 04:17",
     "epg": "https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz",
     "image": "https://helmerluzo.github.io/CanelaTV_HL/canela.png",
     "url": "https://helmerluzo.github.io/CanelaTV_HL/tv/w3u/CanelaTV_tv.w3u",
@@ -107,7 +107,7 @@
                 },
                 {
                     "name": "Canal 6 CDMX",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/canal_6_1920x1080_0.jpg",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/5srILEm5SzHPXVwrs737meYCGyU_uo4Nuc8vQHY5X-g.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402",
                     "epgId": "canal-6-cdmx"
                 },
@@ -119,7 +119,7 @@
                 },
                 {
                     "name": "C4 en Alerta",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/c4_en_alerta_1920x1080_1.jpg",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/2RdS5dqlScn9zn9J3E6In-Eh5LhKsiFoM2MkOO4zjjo.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420",
                     "epgId": "c4-en-alerta"
                 },
