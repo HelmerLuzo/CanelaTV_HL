@@ -1,6 +1,6 @@
 {
     "name": "Canela TV by HL",
-    "author": "Actualizada 07/02/2025 22:17",
+    "author": "Actualizada 08/02/2025 04:17",
     "epg": "https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz",
     "image": "https://helmerluzo.github.io/CanelaTV_HL/canela.png",
     "url": "https://helmerluzo.github.io/CanelaTV_HL/tv/w3u/CanelaTV_tv.w3u",
@@ -280,46 +280,16 @@
                     "epgId": "itv-deportes"
                 },
                 {
-                    "name": "CANELA MUSIC PRESENTS",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/cm_cmp_01_16x9_1_0.jpg",
-                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548",
-                    "epgId": "canela-music-presents"
-                },
-                {
                     "name": "Canela Hits",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelahits_16-9_1.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058",
                     "epgId": "canela-hits"
                 },
                 {
-                    "name": "FLOW CARIBEÑO",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/flowcaribeno_16-9.jpg",
-                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083",
-                    "epgId": "flow-caribeno"
-                },
-                {
                     "name": "TU POP FAVORITO",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/tupopfavorito-16-9_0.jpg",
                     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1086",
                     "epgId": "tu-pop-favorito"
-                },
-                {
-                    "name": "CONCIERTOS",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-conciertos-linnear-16x9.jpg",
-                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1085",
-                    "epgId": "conciertos"
-                },
-                {
-                    "name": "PURO ROMANCE",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/puroromance_16-9_1.jpg",
-                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1082",
-                    "epgId": "puro-romance"
-                },
-                {
-                    "name": "RITMOS INOLVIDABLES ",
-                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/ritmosinolvida-16-9_0.jpg",
-                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1081",
-                    "epgId": "ritmos-inolvidables"
                 },
                 {
                     "name": "REGIONAL MX",
