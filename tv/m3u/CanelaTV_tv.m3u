@@ -27,13 +27,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 #EXTINF:-1 tvg-id="milenio-television" tvg-name="milenio-television" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/mhGs9Til9WFfX3xO7Pk0wq1TFWitB7X158AAMlik9_U.jpg" group-title="En Vivo" , Milenio Televisión
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
-#EXTINF:-1 tvg-id="c4-en-alerta" tvg-name="c4-en-alerta" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/2RdS5dqlScn9zn9J3E6In-Eh5LhKsiFoM2MkOO4zjjo.jpg" group-title="En Vivo" , C4 en Alerta
+#EXTINF:-1 tvg-id="c4-en-alerta" tvg-name="c4-en-alerta" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/9Qhx8eqv3O4TBJ1_PNyFeCBVinup-CvdQWGV7ay9jzk.jpg" group-title="En Vivo" , C4 en Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
 #EXTINF:-1 tvg-id="azteca-uno-1-hora" tvg-name="azteca-uno-1-hora" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/uno-1920x1080.png" group-title="En Vivo" , AZTECA UNO -1 hora
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 tvg-id="azteca-internacional" tvg-name="azteca-internacional" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/64NBu8-mrE2KlvXq282kDdxm8GStzrb7lcAS7HuUlr0.jpg" group-title="En Vivo" , Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
-#EXTINF:-1 tvg-id="telediario-now" tvg-name="telediario-now" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/1hLrgUkhr-9iPr9L1fmh1Ma9GQnLT5fJHd_fDrTfIAk.jpg" group-title="En Vivo" , Telediario Now
+#EXTINF:-1 tvg-id="telediario-now" tvg-name="telediario-now" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/JKXe9UBnP2OAOVqOtmDr-OW-vK1MzUexypWC-vcIaOk.jpg" group-title="En Vivo" , Telediario Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 #EXTINF:-1 tvg-id="rcn-mas" tvg-name="rcn-mas" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/horizontal_logo_rcn_mas_-_4_novelas_copy.jpg" group-title="En Vivo" , RCN Más
 https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8?ads.wurl_channel=926
