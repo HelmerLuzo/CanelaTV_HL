@@ -23,17 +23,17 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-cane
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-id="accion-mexicana" tvg-name="accion-mexicana" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-accion_mexicana-16x9_0.jpg" group-title="En Vivo" , Acción Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
-#EXTINF:-1 tvg-id="canal-6-cdmx" tvg-name="canal-6-cdmx" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/5srILEm5SzHPXVwrs737meYCGyU_uo4Nuc8vQHY5X-g.jpg" group-title="En Vivo" , Canal 6 CDMX
+#EXTINF:-1 tvg-id="canal-6-cdmx" tvg-name="canal-6-cdmx" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/-GbG1B7tRtw6gJ7_dowGoNJfuYv3saIRZxChKGNtF6o.jpg" group-title="En Vivo" , Canal 6 CDMX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
-#EXTINF:-1 tvg-id="milenio-television" tvg-name="milenio-television" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/mhGs9Til9WFfX3xO7Pk0wq1TFWitB7X158AAMlik9_U.jpg" group-title="En Vivo" , Milenio Televisión
+#EXTINF:-1 tvg-id="milenio-television" tvg-name="milenio-television" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/nbrqazm12N0w0Nu_MkVFVip74xUoiRTcXPY8bhQoQAo.jpg" group-title="En Vivo" , Milenio Televisión
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
-#EXTINF:-1 tvg-id="c4-en-alerta" tvg-name="c4-en-alerta" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/9Qhx8eqv3O4TBJ1_PNyFeCBVinup-CvdQWGV7ay9jzk.jpg" group-title="En Vivo" , C4 en Alerta
+#EXTINF:-1 tvg-id="c4-en-alerta" tvg-name="c4-en-alerta" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/psl9-8liWInQ54YdieWyOXhQqJTJ3BSwQN2WKhTA4sc.jpg" group-title="En Vivo" , C4 en Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
 #EXTINF:-1 tvg-id="azteca-uno-1-hora" tvg-name="azteca-uno-1-hora" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/uno-1920x1080.png" group-title="En Vivo" , AZTECA UNO -1 hora
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
-#EXTINF:-1 tvg-id="azteca-internacional" tvg-name="azteca-internacional" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/64NBu8-mrE2KlvXq282kDdxm8GStzrb7lcAS7HuUlr0.jpg" group-title="En Vivo" , Azteca Internacional
+#EXTINF:-1 tvg-id="azteca-internacional" tvg-name="azteca-internacional" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/k1pABUwVrGm-EFftOcaGVjoM3GxjEkeKFOChppO1byw.jpg" group-title="En Vivo" , Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
-#EXTINF:-1 tvg-id="telediario-now" tvg-name="telediario-now" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/JKXe9UBnP2OAOVqOtmDr-OW-vK1MzUexypWC-vcIaOk.jpg" group-title="En Vivo" , Telediario Now
+#EXTINF:-1 tvg-id="telediario-now" tvg-name="telediario-now" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/IA9g0lcH4NaCrroptgEHMT5xwqzMy5GtfZck9lJqg_A.jpg" group-title="En Vivo" , Telediario Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 #EXTINF:-1 tvg-id="rcn-mas" tvg-name="rcn-mas" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/horizontal_logo_rcn_mas_-_4_novelas_copy.jpg" group-title="En Vivo" , RCN Más
 https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8?ads.wurl_channel=926
