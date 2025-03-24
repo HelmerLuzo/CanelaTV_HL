@@ -18,7 +18,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:-1 tvg-id="always-funny-en-espanol" tvg-name="always-funny-en-espanol" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/afe_canela_still_1920x1080_1.png" group-title="En Vivo" , Always Funny en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12147
 #EXTINF:-1 tvg-id="vive-kanal-d-drama" tvg-name="vive-kanal-d-drama" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/vive_kdd_canela_media-1920x1080_d_0.jpg" group-title="En Vivo" , Vive Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=e30ddb3ce3777703c0c8dd41578c3b71
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8?device_id=5c593684a210e03a864fcec24c6d4c1b
 #EXTINF:-1 tvg-id="novelisima" tvg-name="novelisima" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/w1snMhKwik97IWj_ZJLGraHMgzDwxGnkmiBkywhSCrI.jpg" group-title="En Vivo" , Novelísima 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:-1 tvg-id="accion-mexicana" tvg-name="accion-mexicana" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-accion_mexicana-16x9_0.jpg" group-title="En Vivo" , Acción Mexicana
@@ -64,7 +64,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 #EXTINF:-1 tvg-id="canela-deportes" tvg-name="canela-deportes" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/ctv-channel-caneladeportes-07-2024_v3_16x9_0.jpg" group-title="Canales de Deporte & Música en Vivo" , Canela Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
 #EXTINF:-1 tvg-id="power-nation-en-espanol" tvg-name="power-nation-en-espanol" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelatv_thumbnail_1920x1080_v3.png" group-title="Canales de Deporte & Música en Vivo" , Power Nation en Español
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=a48c4b71757a31aa131f571716b415c3
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=5c593684a210e03a864fcec24c6d4c1b
 #EXTINF:-1 tvg-id="itv-deportes" tvg-name="itv-deportes" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/CNv4Q30IOM7-ZUnfOeACh_4eGtl-2Whey5zBt4afg20.jpg" group-title="Canales de Deporte & Música en Vivo" , ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 #EXTINF:-1 tvg-id="canela-hits" tvg-name="canela-hits" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelahits_16-9_1.jpg" group-title="Canales de Deporte & Música en Vivo" , Canela Hits
