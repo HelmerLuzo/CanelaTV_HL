@@ -1,6 +1,6 @@
 {
     "name": "Canela TV by HL",
-    "author": "Actualizada 03/04/2025 22:17",
+    "author": "Actualizada 04/04/2025 04:17",
     "epg": "https://helmerluzo.github.io/CanelaTV_HL/epg/CanelaTV.xml.gz",
     "image": "https://helmerluzo.github.io/CanelaTV_HL/canela.png",
     "url": "https://helmerluzo.github.io/CanelaTV_HL/tv/w3u/CanelaTV_tv.w3u",
@@ -162,19 +162,19 @@
                 {
                     "name": "Flou Cine",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-flou_cine-16x9.jpg",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=d3d8c4c13d7aec19290ba62a54bc5c54",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-flou-canelatv/playlist.m3u8?device_id=b58a9f95f8a8d78b447968823bd32b8f",
                     "epgId": "flou-cine"
                 },
                 {
                     "name": "FLOU Caribeño",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel_banner_flou_caribeno_1920_x_1080_9.16.jpg",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-canelatv/playlist.m3u8?device_id=d3d8c4c13d7aec19290ba62a54bc5c54",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-canelatv/playlist.m3u8?device_id=b58a9f95f8a8d78b447968823bd32b8f",
                     "epgId": "flou-caribeno"
                 },
                 {
                     "name": "Tastemade en Español",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/apk2nzj-fw95sa2rrnrub3hg-xtq1x9rgg.jpg",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8?device_id=d3d8c4c13d7aec19290ba62a54bc5c54",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8?device_id=b58a9f95f8a8d78b447968823bd32b8f",
                     "epgId": "tastemade-en-espanol-0"
                 }
             ]
@@ -216,7 +216,7 @@
                 {
                     "name": "Power Nation en Español",
                     "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelatv_thumbnail_1920x1080_v3.png",
-                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=d3d8c4c13d7aec19290ba62a54bc5c54",
+                    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=e30ddb3ce3777703c0c8dd41578c3b71",
                     "epgId": "power-nation-en-espanol"
                 },
                 {
